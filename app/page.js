@@ -43,6 +43,18 @@ export default function Home() {
             清風荘メゾンブライト(オートロック付の鉄筋コンクリートマンション)
           </Link>
         </li>
+        <li>
+          <a className="shop-name">
+            アパマンショップ石橋店<span>(45000円～)</span>
+          </a>
+          <br />
+          <Link
+            className="a-link"
+            href="http://www.handai-chintai.com/bukken/950.html"
+          >
+            メイユール石橋（家具・家電付きプラン）
+          </Link>
+        </li>
       </ul>
     </>
   );

@@ -69,7 +69,7 @@ export default function Home() {
         </li>
         <li>
           <a className="shop-name">
-            アパマンショップ石橋店<span>(66000円～)</span>
+            UniLife学生マンション<span>(66000円～)</span>
           </a>
           <br />
           <Link className="a-link" href="https://unilife.co.jp/view/12154">

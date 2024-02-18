@@ -26,9 +26,21 @@ export default function Home() {
           <br />
           <Link
             className="a-link"
-            href="http://www.handai-chintai.com/bukken/136.html"
+            href="http://www.handai-chintai.com/bukken/902.html"
           >
             White Well Comfort(CATV / インターネット無料)
+          </Link>
+        </li>
+        <li>
+          <a className="shop-name">
+            アパマンショップ石橋店<span>(46000円～)</span>
+          </a>
+          <br />
+          <Link
+            className="a-link"
+            href="http://www.handai-chintai.com/bukken/593.html"
+          >
+            清風荘メゾンブライト(オートロック付の鉄筋コンクリートマンション)
           </Link>
         </li>
       </ul>

@@ -6,12 +6,12 @@ export default function Nav() {
       <ul className="nav">
         <li className="nav li">
           <Link className="nav link" href="/">
-            石橋阪大前（阪急宝塚線）
+            石橋阪大前方面
           </Link>
         </li>
         <li className="nav li">
           <Link className="nav link" href="/toneyama">
-            刀根山（阪大正門）
+            阪大正門方面
           </Link>
         </li>
       </ul>

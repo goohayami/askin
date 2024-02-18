@@ -14,6 +14,11 @@ export default function Nav() {
             阪大正門方面
           </Link>
         </li>
+        <li className="nav li">
+          <Link className="nav link" href="/monorail">
+            大阪モノレール
+          </Link>
+        </li>
       </ul>
     </>
   );

@@ -4,7 +4,6 @@
 
 .nav {
   display: flex;
-  /* margin-left: 1rem; */
   margin-right: 0.5rem;
 }
 
@@ -32,4 +31,13 @@ li {
 
 span {
   color: tomato;
+}
+.img-container {
+  margin-top: 0;
+  display: flex;
+  justify-content: center;
+}
+
+html {
+  background-color: rgb(251, 255, 242);
 }

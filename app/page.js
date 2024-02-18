@@ -9,14 +9,14 @@ export default function Home() {
       <ul className="apart-link">
         <li>
           <a className="shop-name">
-            アパマンショップ<span>(56000円～)</span>
+            アパマンショップ石橋店<span>(53000円～)</span>
           </a>
           <br />
           <Link
             className="a-link"
-            href="https://www.apamanshop.com/osaka/203/b52019801441128/?media_nm=campus"
+            href="http://www.handai-chintai.com/bukken/136.html"
           >
-            レオパレス待兼キャンパス/大阪府豊中市/大阪モノレール柴原阪大前駅
+            シャルム石橋(最上階・独立角部屋！！インターネット無料！！)
           </Link>
         </li>
       </ul>

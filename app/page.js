@@ -67,6 +67,15 @@ export default function Home() {
             THE AGES（CATV / 光ファイバー / インターネット無料）
           </Link>
         </li>
+        <li>
+          <a className="shop-name">
+            アパマンショップ石橋店<span>(66000円～)</span>
+          </a>
+          <br />
+          <Link className="a-link" href="https://unilife.co.jp/view/12154">
+            アヴェニール阪大前(完成年月 2022年03月)
+          </Link>
+        </li>
       </ul>
     </>
   );

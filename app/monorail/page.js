@@ -5,11 +5,16 @@ export default function Monorail() {
   return (
     <>
       <div className="main">
-        <h1>
+        <h3>
           <a href="https://www.osaka-monorail.co.jp/station/">大阪モノレール</a>
-        </h1>
+        </h3>
         <div className="img-container">
-          <Image src={localImage} height={500} alt="大阪モノレール路線図" />
+          <Image
+            src={localImage}
+            sizes="(max-width: 768px) 100vw, 50vw"
+            width={600}
+            alt="大阪モノレール路線図"
+          />
         </div>
       </div>
     </>

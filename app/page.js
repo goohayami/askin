@@ -55,6 +55,18 @@ export default function Home() {
             メイユール石橋（家具・家電付きプラン）
           </Link>
         </li>
+        <li>
+          <a className="shop-name">
+            アパマンショップ石橋店<span>(45000円～)</span>
+          </a>
+          <br />
+          <Link
+            className="a-link"
+            href="http://www.handai-chintai.com/bukken/390.html"
+          >
+            THE AGES（CATV / 光ファイバー / インターネット無料）
+          </Link>
+        </li>
       </ul>
     </>
   );

@@ -76,6 +76,18 @@ export default function Home() {
             アヴェニール阪大前(完成年月 2022年03月)
           </Link>
         </li>
+        <li>
+          <a className="shop-name">
+            大阪大学生協生活組合<span>(53000円～)</span>
+          </a>
+          <br />
+          <Link
+            className="a-link"
+            href="https://www.handai-myroom.com/d27014500111010000000262"
+          >
+            ライフスペースキャノン
+          </Link>
+        </li>
       </ul>
     </>
   );
